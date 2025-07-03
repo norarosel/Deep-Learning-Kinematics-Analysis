@@ -1,2 +1,2 @@
 # DeepLearningKinematicsAnalysis
-Project on Computer Vision at Hummel Lab at EPFL. Enhancing Motor Learning via Non-Invasive Striatal Stimulation in Healthy Older Adults and Patients with Brain Lesions: conducting kinematics analysis of stroke patients performing a motor learning task using deep learning to uncover movement patterns and support neurorehabilitation research (2025).
+Computer Vision project: enhancing motor learning through non-invasive striatal stimulation (tTIS) in healthy older adults and individuals with brain lesions. Applied deep learning to analyze kinematic data from stroke patients performing motor learning tasks, aiming to identify movement patterns and advance neurorehabilitation research. (2025).
